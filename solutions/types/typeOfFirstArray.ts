@@ -1,0 +1,4 @@
+/*
+Implement a a generic which captures the type of the first element of an array.
+The type should be inferred from the first element of the array.
+*/
