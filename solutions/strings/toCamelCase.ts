@@ -41,6 +41,5 @@ console.log(
     toCamelCase("hello world"), // helloWorld
     toCamelCase(123), // fails due to 123 not being string
     toCamelCase(false), // fails due to false not being string
-    toCamelCase(Symbol("symbol")) // fails due to symbol
-     not being string
+    toCamelCase(Symbol("symbol")) // fails due to symbol not being string
 );
