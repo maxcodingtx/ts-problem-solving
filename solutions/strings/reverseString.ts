@@ -13,5 +13,3 @@ function reverseString(str: string): string {
 
   return reversedString;
 }
-
-console.log(reverseString("eggsdee"));
